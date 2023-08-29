@@ -47,5 +47,4 @@ The project is written in `python 3.11` and uses pygame for the GUI. To run the 
 - `pygame_gui` A wrapper around pygame library for creating GUI easily
 
 ## Author
-- [Sri Hari](https://github.com/gtbSrihari)
 - [Tarun](https://github.com/tarunganesh2004)
